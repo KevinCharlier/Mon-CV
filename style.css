@@ -91,7 +91,7 @@ h2{
 .button {
     display: inline-block;
     border-radius: 4px;
-    background-color: #f4511e;
+    background-color: #3388BB;
     border: none;
     color: #FFFFFF;
     text-align: center;
@@ -104,7 +104,7 @@ h2{
   }
 
 .button:hover {
-    background-color: #3e8e41
+    background-color: #4079A4;
     }
   
   .button span {
